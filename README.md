@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm currently studing at Binghamton University.<br>🔬 Intersed in cloud based high performance computing. <br>🏢 Looking for opportunites in Java  Development.<br>🤖 Artificial Intelligence is no match for Natural Stupidity/Dumb Ideas.
+🏫 I'm currently studying at Binghamton University.<br>🔬 Interested in cloud based high performance computing. <br>🏢 Looking for opportunities in Java  Development.<br>🤖 Artificial Intelligence is no match for Natural Stupidity/Dumb Ideas.
 
 
 ## 🌐 Socials:
